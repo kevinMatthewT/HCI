@@ -1,0 +1,22 @@
+CSS:
+Header{
+      Background-color: #3879BD; 
+}
+
+LESS:
+@new-color: #3879BD
+#header{
+      Color: @new-color;
+} 
+
+SASS:
+Section{
+	Height:100px;
+	Width:100px;
+	.class-one{
+		Height:50px;
+		Width:50px;
+	}
+}
+
+      
